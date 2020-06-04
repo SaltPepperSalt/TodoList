@@ -1,4 +1,4 @@
-// State
+
 let todos = [];
 
 const $inputTodo = document.querySelector('.input-todo');
